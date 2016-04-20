@@ -1,0 +1,28 @@
+name: samirbellik
+favicon: null
+layout_spectrum: 0.17310846596956253
+typography_spectrum: 0.07051634532399476
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3585052655544132
+  lightness: 0.8690376875456423
+  saturation: 0.77827601111494
+  rhythmicContrast: 0.5289723279420286
+purpose: []
